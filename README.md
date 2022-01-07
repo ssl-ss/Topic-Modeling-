@@ -1,7 +1,6 @@
 ## Research Question 
 
-This project is an extension of the mini-project1. 
-For this project, I am still going to study the trending books from 2011 to 2021. I want to track how the popular book themes/genres have changed over the years.
+For this project, I am going to study the trending books from 2011 to 2021. I want to track how the popular book themes/genres have changed over the years.
 My hypotheses are the following: 
 
 (1) The themes and genres that readers are interested in don't stay constant; 
